@@ -1,1 +1,1 @@
-# SpatialFCM
+# ShadowedFCM
